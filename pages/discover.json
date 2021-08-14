@@ -1,0 +1,14 @@
+[{
+    "img":"/goat.jpg",
+    "title":"Experiences",
+    "description":"Local things to do, wherever you are."
+},
+{
+    "img":"/frame.jpg",
+    "title":"Online Experiences",
+    "description":"Live, interactive activities led by Hosts."
+},{
+    "img":"/olympians.jpg",
+    "title":"Olympians & Paralympians",
+    "description":"Online activities hosted by athletes."
+}]
